@@ -1,0 +1,12 @@
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest
+
+How AJAX Works
+
+1. Create and XMLHttpRequest Object
+2. Create a callback function
+3. Open a XMLHttpRequest
+4. Send XMLHttpRequest
+
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/status
